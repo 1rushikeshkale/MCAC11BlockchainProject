@@ -1,4 +1,4 @@
-<img width="1917" height="1043" alt="image" src="https://github.com/user-attachments/assets/f6be46f4-294c-4e46-9749-8a33ed419301" /># Blockchain-Based Academic Certificate Verification & Credit Transfer System
+# Blockchain-Based Academic Certificate Verification & Credit Transfer System
 
 *(A Decentralized Academic Credential System using Blockchain)*
 
