@@ -1,4 +1,4 @@
-# Blockchain-Based Academic Certificate Verification & Credit Transfer System
+<img width="1917" height="1043" alt="image" src="https://github.com/user-attachments/assets/f6be46f4-294c-4e46-9749-8a33ed419301" /># Blockchain-Based Academic Certificate Verification & Credit Transfer System
 
 *(A Decentralized Academic Credential System using Blockchain)*
 
@@ -138,10 +138,11 @@ npx hardhat run scripts/deploy.js --network localhost
 ---
 
 ## 📌 Screenshots
+![Uploading Admin Login Page.PNG…]()
 
-> *Add UI screenshots here (Admin, Student, Verification pages)*
 
----
+
+
 
 ## ❤️ Credits
 
