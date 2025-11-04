@@ -170,7 +170,7 @@ https://github.com/1rushikeshkale/MCAC11BlockchainProject
 
 For queries or collaboration:
 
-* Email: 1rushikesh Kale
+* Email: 1rushikeshkale@gmail.com
 * LinkedIn: https://www.linkedin.com/in/1rushikeshkale/
 
 > *"Blockchain for Education — ensuring trust, transparency, and authenticity."*
