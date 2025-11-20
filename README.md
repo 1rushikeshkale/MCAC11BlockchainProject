@@ -138,7 +138,31 @@ npx hardhat run scripts/deploy.js --network localhost
 ---
 
 ## 📌 Screenshots
+1. Admin Login
 ![Admin Login Page](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/0bf8202d8be989239423fe89268259d9bf70b1dc/Admin%20Login%20Page.PNG?raw=true)
+
+2. Issue Certificate Page
+![Issue Certificate Page](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/3ba9aa1d1c01b4e23d7316c0a5c2521c0b6f9f13/Issue%20Certificate.PNG?raw=true)
+
+3. Connect Metamask Page
+![Connect Metamask Page](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/3ba9aa1d1c01b4e23d7316c0a5c2521c0b6f9f13/Connect%20Metamask%20page.PNG?raw=true)
+
+4. Upload Certificate on Blockchain
+![Upload Certificate on Blockchain](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/3ba9aa1d1c01b4e23d7316c0a5c2521c0b6f9f13/Upload%20Certificate%20on%20Bloackchain.PNG?raw=true)
+
+5. Admin Approve Credit Page
+![Admin Approve Credit Page](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/3ba9aa1d1c01b4e23d7316c0a5c2521c0b6f9f13/Admin%20Approve%20Credit%20%20page.PNG?raw=true)
+
+6. Student Dashboard
+![Student Dashboard](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/3ba9aa1d1c01b4e23d7316c0a5c2521c0b6f9f13/Student%20Dashboard.PNG?raw=true)
+
+7. Verify Porta
+![Verify Portal](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/3ba9aa1d1c01b4e23d7316c0a5c2521c0b6f9f13/Verify%20Portal.PNG?raw=true)
+
+8. View or Verify Student Credit Using PRN Number
+![View or Verify Student Credit Using PRN Number](https://github.com/1rushikeshkale/Blockchain-Based-Academic-Certificate-Verification-and-Credit-Transfer-System/blob/3ba9aa1d1c01b4e23d7316c0a5c2521c0b6f9f13/View%20or%20Verify%20Student%20Credit%20Using%20PRN%20Number.PNG?raw=true)
+
+
 
 
 
